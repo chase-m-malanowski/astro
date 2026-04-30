@@ -1,0 +1,22 @@
+start
+bashsource astrodynamics_env/bin/activate
+
+stop
+deactivate
+
+
+
+
+pip install numpy
+
+
+https://www.youtube.com/watch?v=H2EJuAcrZYU
+https://github.com/gitdagray/python-course
+
+
+
+
+matlab.savefig('plot.png')
+
+import subprocess
+subprocess.run(['explorer.exe', 'plot.png'])    
